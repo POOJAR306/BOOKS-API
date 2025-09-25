@@ -24,7 +24,6 @@ Copy code
 node server.js
 The server runs at:
 
-arduino
 Copy code
 http://localhost:3000
 

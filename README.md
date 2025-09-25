@@ -39,7 +39,7 @@ http://localhost:3000
 - Method: POST
 - URL: http://localhost:3000/books
 - Request Body (JSON):
-```json
+
 {
   "title": "Book Title",
   "author": "Author Name"
@@ -53,7 +53,6 @@ URL: http://localhost:3000/books/:id
 
 Request Body (JSON):
 
-json
 Copy code
 {
   "title": "Updated Title",

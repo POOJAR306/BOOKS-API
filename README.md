@@ -12,17 +12,14 @@ All data is stored in memory (no database required).
    git clone <your-repo-url>
 Navigate to the project folder:
 
-bash
 Copy code
 cd books-api
 Install dependencies:
 
-bash
 Copy code
 npm install
 Start the server:
 
-bash
 Copy code
 node server.js
 The server runs at:
